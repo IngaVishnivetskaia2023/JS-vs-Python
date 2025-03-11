@@ -9,7 +9,7 @@ JS vs Python syntax comparison
 
 :heavy_check_mark:[Декораторы](4.md)
 
-:heavy_check_mark:[Итераторы и генераторы](4.md)
+:heavy_check_mark:[Итераторы и генераторы](5.md)
 
 [Семинар 1, colab](https://colab.research.google.com/drive/1KQ1JzO7lQUpR49edjS9EZqHiDgbDyLNZ#scrollTo=LcWUkUzTK6HJ)
 
